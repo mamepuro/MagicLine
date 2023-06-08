@@ -1,0 +1,15 @@
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\bin\Debug\net6.0\MagicLine.exe
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\bin\Debug\net6.0\MagicLine.deps.json
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\bin\Debug\net6.0\MagicLine.runtimeconfig.json
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\bin\Debug\net6.0\MagicLine.dll
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\bin\Debug\net6.0\MagicLine.pdb
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.csproj.AssemblyReference.cache
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.AssemblyInfoInputs.cache
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.AssemblyInfo.cs
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.csproj.CoreCompileInputs.cache
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.dll
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\refint\MagicLine.dll
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.pdb
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\MagicLine.genruntimeconfig.cache
+C:\Users\ayata\Desktop\MagicLine\MagicLine\MagicLine\obj\Debug\net6.0\ref\MagicLine.dll
